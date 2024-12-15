@@ -9,7 +9,7 @@
 
  - 🔭 Previous projects I worked on:
  -   [TwoMinuteDrill](https://two-minute-drill.onrender.com/) A web app that allows users to create customizeable football contests and enter contests that others have made.
- -   [BillBuddy](https://alex-billbuddy.onrender.com/) A web app used for tracking
+ -   [BillBuddy](https://alex-billbuddy.onrender.com/) A web app used for tracking expenses between friends, family and colleagues. Users are able to split any bill they have with anyone in their network.
 
  - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/alex-llanos-280882231)
 
